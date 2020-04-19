@@ -18,7 +18,7 @@ def hello_world():
     if (prediction == 0):
         return ("Skin Disease is vitiligo")
     elif (prediction == 1):
-        return ("Skin Disease is Mario")
+        return ("Mario Has Deployed   ")
     elif (prediction == 2):
         return ("Skin Disease is melanoma")
 

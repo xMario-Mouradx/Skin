@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d37046e-6f79-4318-9bed-0f45429f54f2" name="Default Changelist" comment="" />
+    <list default="true" id="9d37046e-6f79-4318-9bed-0f45429f54f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587257857226</updated>
       <workItem from="1587257928172" duration="1639000" />
-      <workItem from="1587310434324" duration="3285000" />
+      <workItem from="1587310434324" duration="5456000" />
     </task>
     <servers />
   </component>
@@ -71,28 +74,28 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1587311214349" />
-    <state width="698" height="206" key="GridCell.Tab.0.bottom" timestamp="1587313546433">
+    <state width="698" height="206" key="GridCell.Tab.0.bottom" timestamp="1587323118538">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="206" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587313546432" />
-    <state width="698" height="206" key="GridCell.Tab.0.center" timestamp="1587313546432">
+    <state width="698" height="206" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587323118538" />
+    <state width="698" height="206" key="GridCell.Tab.0.center" timestamp="1587323118538">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="206" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587313546432" />
-    <state width="698" height="206" key="GridCell.Tab.0.left" timestamp="1587313546432">
+    <state width="698" height="206" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587323118538" />
+    <state width="698" height="206" key="GridCell.Tab.0.left" timestamp="1587323118538">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="206" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587313546432" />
-    <state width="698" height="206" key="GridCell.Tab.0.right" timestamp="1587313546432">
+    <state width="698" height="206" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587323118537" />
+    <state width="698" height="206" key="GridCell.Tab.0.right" timestamp="1587323118538">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="698" height="206" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587313546432" />
+    <state width="698" height="206" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587323118538" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1587313013501">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1587313013501" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flask$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1587313546426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Flask$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1587323117727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
